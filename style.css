@@ -1,0 +1,22 @@
+body {
+    font-family: Avenir;
+    font-size: 14px;
+    height: 200vh;
+}
+
+
+.title {
+    color: dodgerblue;
+    font-size: 1.3rem;
+}
+
+
+#scroll_position{
+    background-color: pink;    
+    height: 40px;
+    line-height: 40px;
+    position: absolute;
+    text-align: center;    
+    width: 100px;
+}
+
